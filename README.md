@@ -1,7 +1,7 @@
 # Student-Enrollment-Form
 A web-based Student Enrollment Form that allows users to enter and manage student records using the JPDB database. The form includes functionalities to fetch, save, update, and reset student data.
 
-##🚀 Features
+## 🚀 Features
 📌 Fetch student details by entering a Student ID
 
 💾 Save new student records
@@ -12,7 +12,7 @@ A web-based Student Enrollment Form that allows users to enter and manage studen
 
 🔒 Validation checks to ensure all required fields are filled
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 HTML, CSS, JavaScript (Frontend)
 
 jQuery for AJAX requests
